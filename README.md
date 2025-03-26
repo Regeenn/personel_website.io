@@ -17,10 +17,6 @@ Modern ve profesyonel bir kişisel portfolio web sitesi.
 - CSS3
 - Font Awesome (ikonlar için)
 
-## Nasıl Görüntülenir
-
-`index.html` dosyasını bir web tarayıcısında açın.
-
 ## İletişim
 
 - LinkedIn: [Furkan Özkan](https://www.linkedin.com/in/furkan-özkan-400bb0261/)
