@@ -24,4 +24,4 @@ Modern ve profesyonel bir kişisel portfolio web sitesi.
 ## İletişim
 
 - LinkedIn: [Furkan Özkan](https://www.linkedin.com/in/furkan-özkan-400bb0261/)
-- Email: furkanozkan0722@gmail.com 
+- Email: furkanozkan2201@gmail.com 
